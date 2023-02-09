@@ -10,7 +10,7 @@ In this series, I will try to reproduce Cole's plots shown in her book *Storytel
 
 ### Demo: Tickets Plot
 
-![Cole's Version](/Image/ticket-cole-version.jpg)
+![Cole's Version](/Image/ticket-cole-version.jpg "Cole's Ticket Plot Version")
 ```
 received = c(160,184,241,149,180,160,132,202,160,139,149,177)
 processed = c(160,184,231,148,181,150,123,156,126,104,124,140)
@@ -30,4 +30,4 @@ text(8:12, processed[8:12] - 20, processed[8:12], col = "darkblue")
 text(12, c(140,177), c("Processed","Received"), col = c("darkblue","lightgray"),
      pos = 4)
 ```
-![My Version](/Image/ticket-my-version.jpng)
+![My Version](/Image/ticket-my-version.jpeg "My R Version")
