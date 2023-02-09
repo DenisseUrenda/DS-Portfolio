@@ -30,4 +30,4 @@ text(8:12, processed[8:12] - 20, processed[8:12], col = "darkblue")
 text(12, c(140,177), c("Processed","Received"), col = c("darkblue","lightgray"),
      pos = 4)
 ```
-![My Version](/Image/ticket-my-version.pdf)
+![My Version](/Image/ticket-my-version.jpng)
