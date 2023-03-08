@@ -30,4 +30,6 @@ The following table shows some of the variable that this dataset contains and th
 |`diabetes_prevalence`|Diabetes prevalence|
 |`life_expectancy`|Life expectancy at birth|
 
+For the analysis of evolution of new COVID-19 cases and deaths from January 2020 to February 2023, I focused only in Mexico and aggregated the new daily cases and deaths into monthly cases and deaths.
+
 ![Monthly new COVID-19 cases and deaths in Mexico](/Image/covid-cases.png)
