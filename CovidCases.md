@@ -30,4 +30,4 @@ The following table shows some of the variable that this dataset contains and th
 |`diabetes_prevalence`|Diabetes prevalence|
 |`life_expectancy`|Life expectancy at birth|
 
-![Monthly new COVID-19 cases and deaths in Mexico](image/covid-cases.png)
+![Monthly new COVID-19 cases and deaths in Mexico](/Image/covid-cases.png)
