@@ -4,21 +4,28 @@ In this visualization I want to analyze the obesity rate by income in the differ
 
 ## The Data
 
-The data used in this analysis was taken from [Kaggle](https://www.kaggle.com/datasets/annedunn/obesity-and-gdp-rates-from-50-states-in-20142017) title as *Obesity and GDP Rates from 50 States in 2014-2017*. It consists of measurements collected from 50 US states during the years 2014, 2015, 2016, and 2017. Among the measurements we can encounter obesity and poverty rates, average income and age, population, and GDP.
+The data used in this analysis was taken from [Kaggle](https://www.kaggle.com/datasets/annedunn/obesity-and-gdp-rates-from-50-states-in-20142017) title as *Obesity and GDP Rates from 50 States in 2014-2017*. It consists of measurements collected from 50 US states during the years 2014, 2015, 2016, and 2017. Among the measurements, we can encounter obesity and poverty rates, average income and age, population, and GDP. A full description of the variables in the dataset is presented in the tavble below.
 
-|Variable|Description|
-|---|----|
-|State||
-|Year||
-|AdultObesity||
-|AverageAge||
-|AverageIncome||
-|Population||
-|PovertyRate||
-|GDP||
-|PersonalIncome||
-|Region||
-|GDPPerCapita||
+|Variable            |Description                                   |
+|--------------------|----------------------------------------------|
+|`State`             |US states (50 unique values)                  |
+|`Year`              |Year: 2014-2017                               |
+|`AdultObesity`      |Adult obesity rate                            |
+|`AdultObesity100`   |Adult obesity percentage                      |
+|`AverageAge`        |Average age                                   |
+|`AverageIncome`     |Average income                                |
+|`Population`        |Population                                    |
+|`PovertyRate`       |Poverty rate                                  |
+|`PovertyRate100`    |Poverty percentage                            |
+|`RealGDP`           |Real gross domestic product                   |
+|`RealGDPGrowth`     |Real GDP Growth                               |
+|`RealGDPGrowth100`  |Real GDP Growth in percent                    |
+|`RealPersonalIncome`|Real personal income                          |
+|`Region`            |US regions (8 unique values)                  |
+|`RegionEncoding`    |US region by code: 1-8                        |
+|`Unit`              |Unique value: Millions of chained 2012 dollars|
+|`RealGDPPerCapita`  |Real GDP per capita                           |
+|`YearFE`            |Year fixed effect (same as `Year`)            |
 
 ## Visualizations
 
