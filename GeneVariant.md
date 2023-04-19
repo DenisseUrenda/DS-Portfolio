@@ -17,3 +17,8 @@ The data that is going to be used in this analysis has the following variables
 
 ## Average CQ over $10^x$ Number of Copies
 
+![Averag Cq over number of copies by gene](/Image/averageCq.png)
+
+## Gene Variant Transcription over replicates
+
+![Gene variant transcription over replicates by group](/Image/geneVT.png)
