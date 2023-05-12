@@ -94,7 +94,7 @@ Around the 75% of the respondants has one dependent. Most of the students has a 
 
 ### Extra Information <a name = extra></a>
 
-![](Image/extra-1.png)
+![](Image/FinalProject-DB-4.png)
 
 ## Exploring Relationships <a name="exploring2"></a>
 
