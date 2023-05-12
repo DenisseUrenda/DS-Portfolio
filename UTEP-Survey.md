@@ -1,6 +1,6 @@
 # Food Security in UTEP Students and its Relation with Federal Aid, Degree Completion, and Difficulty to Concentrate
 
-## Table of Content
+## Table of Contents
 
 - [The Data](#data)
 - [Exploring the data](#exploring)
