@@ -1,5 +1,18 @@
 # Food Security in UTEP Students and its Relation with Federal Aid, Degree Completion, and Difficulty to Concentrate
 
+## Table of Content
+
+- [The Data](## The Data)
+- [Exploring the data](## Exploring the data)
+  - [Knowing the Students](### Knowing the Students)
+  - [Job and Academic Information](### Job and Academic Information)
+  - [Personal Situation](### Personal Situation)
+- [Exploring Relationships](## Exploring Relationships)
+  - [Federal Aid and Food Security](### Federal Aid and Food Security)
+  - [Food Security, Concentration on School, and Degree Completion](### Food Security, Concentration on School, and Degree Completion)
+  - [Concentration on School and Degree Completion by Gender and Ethnicity](### Concentration on School and Degree Completion by Gender and Ethnicity)
+
+
 ## The Data
 
 The University of Texas at El Paso (UTEP) has been collecting data on food and housing security of UTEP students since 2019 and continuous to this day. The following table presents some of the questions used in the survey applied to UTEP students.
