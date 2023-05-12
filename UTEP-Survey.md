@@ -7,6 +7,7 @@
   - [Knowing the Students](#knowing)
   - [Job and Academic Information](#job)
   - [Personal Situation](#personal)
+  - [Extra Information](#extra)
 - [Exploring Relationships](#exploring2)
   - [Federal Aid and Food Security](#fedaid)
   - [Food Security, Concentration on School, and Degree Completion](#food)
@@ -90,6 +91,9 @@ The visualizations presented below shows the variables Dependents, Federal Aid, 
 ![](/Image/FinalProject-DB-3.png)
 
 Around the 75% of the respondants has one dependent. Most of the students has a work-study as federal aid/assistance, about the 75% are in very low food security level. Most of them live with someone else, they are not in majority the head of household, and almost the 45% live off campus with their parents.
+
+### Extra Information <a name = extra></a>
+![](Image/extra-1.png)
 
 ## Exploring Relationships <a name="exploring2"></a>
 
