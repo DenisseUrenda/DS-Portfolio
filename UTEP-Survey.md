@@ -2,7 +2,7 @@
 
 ## The Data
 
-The University of Texas at El Paso (UTEP) has been collecting data on food and housing security of UTEP students since 2019 and continuous to this day. The data has been collected through a survey containing the questions presented in the table.
+The University of Texas at El Paso (UTEP) has been collecting data on food and housing security of UTEP students since 2019 and continuous to this day. The following table presents some of the questions used in the survey applied to UTEP students.
 
 |Variable             |Meaning                                                             |Notes                                                                         |
 |:--------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------------------------|
@@ -19,20 +19,10 @@ The University of Texas at El Paso (UTEP) has been collecting data on food and h
 |HoH                  |Head of household                                                   |1-‘Yes'; 2-‘No’                                                               |
 |Live                 |Current housing situation                                           |1-‘On campus’; 2-‘Off campus with family’; 3-‘Off campus not with family’; 4-‘Other’; 5-‘Off campus with parents’; 6-‘Off campus with partner’; 7-‘Off campus with partner and kids’                                                                 |
 |FedAid               |Federal Student Aid in the past 12 months                           |1-‘Grants’; 2-‘Work-study’; 3-‘Loans’; 4-‘Scholarship’; 5-‘Emergency Loan’; 6-‘UTEP’s COVID CARES Act Fund’; 7-‘Other’; 8-‘None’                                                                                                                      |
-|PA                   |Permanent address in the past 12 months                             |1-‘Yes'; 2-‘No'                                                               |
-|FreqNightElse        |Frequency spending nights elsewhere due to lack of PA               |1-‘Often’, 2-‘Sometimes’; 3-‘Rarely’                                          |
-|UTEPHomeless         |Do you know any students experiencing homelessness?                 |1-‘Yes’; 2-‘No’                                                               |
 |Year                 |Year of collecting the data                                         |1-‘2019’; 2-‘2020’; 3-‘2021’; 4-‘2022’                                        |
-|HH3                  |The food did’t last and there were no more money left for more food |1-‘True’; 0-‘False’                                                           |
-|HH4                  |Couldn’t afford balanced meals                                      |1-‘True’; 0-‘False’                                                           |
-|AD1                  |Cut size or skip meals because of lack of money                     |1-‘True’; 0-‘False’                                                           |
-|AD1a                 |How often did AD1 happen?                                           |1-‘Almost every month/Some months’; 0-‘Only 1 or 2 months’                    |
-|AD2                  |Eat less because of lack of money                                   |1-‘True’; 0-‘False’                                                           |
-|AD3                  |Hungry but didn’t eat because of lack of money                      |1-‘True’; 0-’False’                                                           |
 |Index                |Food security stats/score                                           |0,1,2,3,4,5,6                                                                 |
 |Gender               |Gender you identify with                                            |1-‘Female’; 2-‘Male’; 3-‘Transgender’; 4-‘Gender variant’; 5-‘Other’; 6-‘Prefer not to say’                                                                                                                                                               |
 |USDAcat              |Calculated Food Security levels                                     |If Index is 0 or 1 then USDAcat-‘Marginal/High FS’; If Index is between 2 and 4 then USDAcat-‘Low FS’; If Index is 5 or 6 then USDAcat-‘Very Low FS’                                                                                                            |
-|YR_2019:YR_2022      |Specific year; 4 separated columns                                  |1-‘No’; 2-‘Yes’                                                               |
 |Ethn_Hisp:Ethn_Other |Specific ethnicity; 7 separated columns                             |1-‘No’; 2-‘Yes’                                                               |
 |Coll_BSN:Coll_NA     |Specific college; 10 separated columns                              |1-‘No’; 2-‘Yes'                                                               |
 
@@ -64,7 +54,7 @@ In this analysis I will explore the data to answer three questions pertaining to
 
 ## Exploring the data
 
-### Knowing our students
+### Knowing the Students
 
 Variables such as Gender, Income, and Ethnicity are shown in the following image. Due to the small ocurrences of categories such as *Transgender*, *Gene variant*, and *Prefer not to say*, these categories were collapsed into the *Other* category. For Ethnicity, since most of the students consider themselves as *Hispanics*, the other ethnicities were collapsed with the *Other* category.
 
@@ -132,7 +122,7 @@ In this plot, it can be observed that all students delaying their completion of 
 
 Based on the figure shown above, for those hispanic who have never delay their completion of degree, the frequency of difficulty to concentrate on school seems to be higher for males than for females. On the othe hand, the frequency of difficulty to concentrate on school for those students who have delayed their completion of degree by one or more semesters seems to be equally likely for males than for females in hispanic students. Non-hispanic students rarely have delayed their completion of degree for both genders.
 
-> Hispanic students are more likely to delay their completion of degree than non-hispanic students. The frequency of difficulty to concentrate on school is higher for males than females for those who have never delay their completion of degree.
+> Hispanic students are more likely to delay their completion of degree than non-hispanic students. The frequency of difficulty to concentrate on school is higher in proportion for males than females for those who have never delay their completion of degree.
 
 ![](Image/ethn-gend-diff-delay-1.png)
 
@@ -140,3 +130,4 @@ In the previous figure, it can be observed that for hispanic students, females a
 
 > Ethnicity seems to highlight the differences between males and females on the frequency on difficulty to concentrate on school. Also, ethnicity could be highly related with the decision of delaying the completion of degree since most of non-hispanic students have never delayed their completion of degree.
 
+> Ethnicity could being related with the differences between males and females on difficulty to concentrate and delay of completion of degree.
