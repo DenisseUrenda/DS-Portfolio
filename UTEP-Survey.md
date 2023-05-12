@@ -100,7 +100,7 @@ In this section, I will analize different visualizations to answer the question:
 
 In this first plot, it can be observed that students in very low food security level apply to federal aid or assistance more frequenly than students in other food security level. As was explored previously, work-study was the most common assistance type among the students but compared with other federal aid/assistance this is the category with lower proportion of students in very low food security level.
 
-![](Image/usda-fedaid-1.png)
+![](Image/usda-fedaid-rev-1.png)
 
 Students in a marginal/high food security level are the onces requesting more loans in proportion compared with the other food security levels. None of the students in high food security level request/received emergency loan, grands or other federal aid/assistance.
 
