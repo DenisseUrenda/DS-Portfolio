@@ -94,7 +94,11 @@ Around the 75% of the respondants has one dependent. Most of the students has a 
 
 ### Extra Information <a name = extra></a>
 
+Finally, the next visualization shows the distribution of variables related to difficulty to concentrate on school, delay of completion degree, time thinking to delay completion, and other in social and political participation.
+
 ![](Image/FinalProject-DB-4.png)
+
+It can be observed that only a small proportion of students has never had difficulty to concentrate on school. The bast mayority has never delayed the completion of degree but almost the half of students has sometimes thinking on delaying completion of degree. About social and political participation, it also can be observed that almost 50% of the students has, at least once, buying or avoiding a product becuase company's values but almost the 80% has never attended a protest, %75 has never posted political messages online and around 60% has never attended a meeting about an issue in the community.
 
 ## Exploring Relationships <a name="exploring2"></a>
 
