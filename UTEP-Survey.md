@@ -2,18 +2,18 @@
 
 ## Table of Content
 
-- [The Data](## The Data)
-- [Exploring the data](## Exploring the data)
-  - [Knowing the Students](### Knowing the Students)
-  - [Job and Academic Information](### Job and Academic Information)
-  - [Personal Situation](### Personal Situation)
-- [Exploring Relationships](## Exploring Relationships)
-  - [Federal Aid and Food Security](### Federal Aid and Food Security)
-  - [Food Security, Concentration on School, and Degree Completion](### Food Security, Concentration on School, and Degree Completion)
-  - [Concentration on School and Degree Completion by Gender and Ethnicity](### Concentration on School and Degree Completion by Gender and Ethnicity)
+- [The Data](#data)
+- [Exploring the data](#exploring)
+  - [Knowing the Students](#knowing)
+  - [Job and Academic Information](#job)
+  - [Personal Situation](#personal)
+- [Exploring Relationships](#exploring2)
+  - [Federal Aid and Food Security](#fedaid)
+  - [Food Security, Concentration on School, and Degree Completion](#food)
+  - [Concentration on School and Degree Completion by Gender and Ethnicity](#concentration)
 
 
-## The Data
+## The Data <a name = data ></a>
 
 The University of Texas at El Paso (UTEP) has been collecting data on food and housing security of UTEP students since 2019 and continuous to this day. The following table presents some of the questions used in the survey applied to UTEP students.
 
@@ -65,9 +65,9 @@ In this analysis I will explore the data to answer three questions pertaining to
 - Does food security have a relationship with the items pertaining to concentration on school and degree process/completion?
 - Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?
 
-## Exploring the data
+## Exploring the data <a name = exploring></a>
 
-### Knowing the Students
+### Knowing the Students <a name="knowing"></a>
 
 Variables such as Gender, Income, and Ethnicity are shown in the following image. Due to the small ocurrences of categories such as *Transgender*, *Gene variant*, and *Prefer not to say*, these categories were collapsed into the *Other* category. For Ethnicity, since most of the students consider themselves as *Hispanics*, the other ethnicities were collapsed with the *Other* category.
 
@@ -75,7 +75,7 @@ Variables such as Gender, Income, and Ethnicity are shown in the following image
 
 As observed in the images, most of the studends are female (548 of 816), the vast majority is hispanic (734 of 816) and more than 80% of the students have an annual household income less than $50,000 which is considered as a low income according to [USNews](https://money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the-american-economic-class-system) while less than 2% of students has upper income ( greater than $100,000).
 
-### Job and Academic Information
+### Job and Academic Information <a name="job"></a>
 
 In the following image, variables related to job and academic information is displayed. Variable such as Enroll, Employ, Work, Hrs, Classification, and College are shown. For the College variable, students were allowed to select more than one college.
 
@@ -83,7 +83,7 @@ In the following image, variables related to job and academic information is dis
 
 86% of the UTEP studends are full-time students, about 70% are employed, about 30% have an on-campus job, and almost 40% has a full-time job. Around the 80% are undergraduate students, most of them being senior students. Most of the students in the survey belongs to the pharmacy college.
 
-### Personal Situation
+### Personal Situation <a name="personal"></a>
 
 The visualizations presented below shows the variables Dependents, Federal Aid, USDA category, Alone, Head of home, and Live. The *UTEP's COVID CARES Act Fund* category in the Federal Aid variable has been included into the *Other* category.
 
@@ -91,9 +91,9 @@ The visualizations presented below shows the variables Dependents, Federal Aid, 
 
 Around the 75% of the respondants has one dependent. Most of the students has a work-study as federal aid/assistance, about the 75% are in very low food security level. Most of them live with someone else, they are not in majority the head of household, and almost the 45% live off campus with their parents.
 
-## Exploring Relationships
+## Exploring Relationships <a name="exploring2"></a>
 
-### Federal Aid and Food Security
+### Federal Aid and Food Security <a name="fedaid"></a>
 
 In this section, I will analize different visualizations to answer the question:
 
@@ -111,7 +111,7 @@ It can also be observed that as the food security level increases, the proportio
 
 > The requested of loans increases as the food security level increase. On the other hand, scholarship, emergency loan, and other assistance are observed to reduced as the food security level increase. Work-study assistence seems not to have a markable difference among food security levels.
 
-### Food Security, Concentration on School, and Degree Completion
+### Food Security, Concentration on School, and Degree Completion <a name="food"></a>
 
 The question to be answered in this section is:
 
@@ -127,7 +127,7 @@ In this plot, it can be observed that all students delaying their completion of 
 
 > Students in very low food security level are more likely to present difficulty to concentrate on school more often and to delay their completion of degree for more two or more semesters than students in other food security levels.
 
-### Concentration on School and Degree Completion by Gender and Ethnicity
+### Concentration on School and Degree Completion by Gender and Ethnicity <a name="concentration"></a>
 
 **Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?**
 
