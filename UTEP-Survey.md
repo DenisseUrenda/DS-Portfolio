@@ -92,25 +92,41 @@ Around the 75% of the respondants has one dependent. Most of the students has a 
 
 ### Federal Aid and Food Security
 
-In this section, I will analize different visualizations to answer the question
+In this section, I will analize different visualizations to answer the question:
 
-> How is use of goverment federal aid/assistance associated with food security as measured by the USDA index or categories?
+**How is use of goverment federal aid/assistance associated with food security as measured by the USDA index or categories?**
 
 ![](Image/fedaid-usda-1.png)
+
+In this first plot, it can be observed that students in very low food security level apply to federal aid or assistance more frequenly than students in other food security level. As was explored previously, work-study was the most common assistance type among the students but compared with other federal aid/assistance this is the category with lower proportion of students in very low food security level.
+
 ![](Image/usda-fedaid-1.png)
+
+Students in a marginal/high food security level are the onces requesting more loans in proportion compared with the other food security levels. None of the students in high food security level request/received emergency loan, grands or other federal aid/assistance.
+
+It can also be observed that as the food security level increases, the proportion of loans requested among this categories tends to increase. The opposite occurs with emergency loan, scholarship and other aids; this is, as the food security increases the proportion of these aids/assistance decrease.
+
+> The requested of loans increases as the food security level increase. On the other hand, scholarship, emergency loan, and other assistance are observed to reduced as the food security level increase. Work-study assistence seems not to have a markable difference among food security levels.
 
 ### Food Security, Concentration on School, and Degree Completion
 
-The question to be answered in this section is
+The question to be answered in this section is:
 
-> Does food security have a relationshio with the items pertaining to concentration on schoold and degree process/completion?
+**Does food security have a relationship with the items pertaining to concentration on school and degree process/completion?**
 
 ![](Image/usda-diff-delay-1.png)
+
+As observed in the previous figure, as long as the food security level increases, for those students who never had delay their completion of degree, the difficulty to concentrate on school is less frequent. Students with high food security rarely have had difficulty to concentrate on school. On the other hand, for students with very low food security, it is more common to present difficulty to concentrate on school, they are more likely to delay their completion of degree.
+
 ![](Image/usda-diff-delay2-1.png)
+
+In this plot, it can be observed that all students delaying their completion of degree for two or more semesters are students in very low food security. Students in low food security level are more likely to delay their completion by one semester than students in very low food security level. The mayority of students in very low food security are more likely to present daily, weekly and monthly difficulty to concentrate on school. Almost all students in low food security level have never delayed their completion of degree.
+
+> Students in very low food security level are more likely to present difficulty to concentrate on school more often and to delay their completion of degree for more two or more semesters than students in other food security levels.
 
 ### Concentration on School and Degree Completion by Gender and Ethnicity
 
-> Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?
+**Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?**
 
 ![](Image/ethn-gend-diff-delay2-1.png)
 ![](Image/ethn-gend-diff-delay-1.png)
