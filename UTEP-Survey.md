@@ -136,7 +136,7 @@ Based on the figure shown above, for those hispanic who have never delay their c
 
 ![](Image/ethn-gend-diff-delay-1.png)
 
-In the following figure, it can be observed that for hispanic students, females are more likely to deley their completion of degree by one or more semesters than males. Only a small proportion of students who have monthly difficult to concentrate, delay their completion of degree. On the other hand, studends having daily and weekly difficulty to concentrate could be delaying their completion of degree no matters the gender. For non-hispanic students, males are more likely to have daily difficulty to concentrate to school.
+In the previous figure, it can be observed that for hispanic students, females are more likely to delay their completion of degree by one or more semesters than males. Only a small proportion of students who have monthly difficult to concentrate, delay their completion of degree. On the other hand, studends having daily and weekly difficulty to concentrate could be delaying their completion of degree no matters the gender. For non-hispanic students, males are more likely to have daily and weekly difficulty to concentrate to school but none of them have delay their completion of degree.
 
-> Ethnicity seems to highlight the differences between males and females on the frequency on difficulty to concentrate on school. Also, ethnicity could be highly related with the decision of delaying the completion of degree.
+> Ethnicity seems to highlight the differences between males and females on the frequency on difficulty to concentrate on school. Also, ethnicity could be highly related with the decision of delaying the completion of degree since most of non-hispanic students have never delayed their completion of degree.
 
