@@ -82,7 +82,7 @@ In the following image, variables related to job and academic information is dis
 
 ![](/Image/FinalProject-DB-1.png)
 
-86% of the UTEP studends are full-time students, about 70% are employed, about 30% have an on-campus job, and almost 40% has a full-time job. Around the 80% are undergraduate students, most of them being senior students. Most of the students in the survey belongs to the pharmacy college.
+86% of the UTEP studends are full-time students. About 70% are employed, almost 40% of them have an on campus job while around 70% have an off campus job, Those having an employment, are in majority, full-time employees. Around the 80% are undergraduate students, most of them being senior students. Most of the students in the survey belongs to the pharmacy college.
 
 ### Personal Situation <a name="personal"></a>
 
@@ -93,6 +93,7 @@ The visualizations presented below shows the variables Dependents, Federal Aid, 
 Around the 75% of the respondants has one dependent. Most of the students has a work-study as federal aid/assistance, about the 75% are in very low food security level. Most of them live with someone else, they are not in majority the head of household, and almost the 45% live off campus with their parents.
 
 ### Extra Information <a name = extra></a>
+
 ![](Image/extra-1.png)
 
 ## Exploring Relationships <a name="exploring2"></a>
