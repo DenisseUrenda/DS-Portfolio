@@ -1,4 +1,6 @@
-# The survey
+# Food Security in UTEP Students and its Relation with Federal Aid, Degree Completion, and Difficulty to Concentrate
+
+## The Data
 
 The University of Texas at El Paso (UTEP) has been collecting data on food and housing security of UTEP students since 2019 and continuous to this day. The data has been collected through a survey containing the questions presented in the table.
 
@@ -57,12 +59,12 @@ Extra questions have heen also supplied in a separate dataset with the following
 In this analysis I will explore the data to answer three questions pertaining to the ongoing study for the year 2022.
 
 - How is use of goverment federal aid/assistance associated with food security as measured by the USDA index or categories?
-- Does food security have a relationshio with the items pertaining to concentration on schoold and degree process/completion?
+- Does food security have a relationship with the items pertaining to concentration on school and degree process/completion?
 - Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?
 
+## Exploring the data
 
-
-## Knowing our students
+### Knowing our students
 
 Variables such as Gender, Income, and Ethnicity are shown in the following image. Due to the small ocurrences of categories such as *Transgender*, *Gene variant*, and *Prefer not to say*, these categories were collapsed into the *Other* category. For Ethnicity, since most of the students consider themselves as *Hispanics*, the other ethnicities were collapsed with the *Other* category.
 
@@ -70,17 +72,45 @@ Variables such as Gender, Income, and Ethnicity are shown in the following image
 
 As observed in the images, most of the studends are female (548 of 816), the vast majority is hispanic (734 of 816) and more than 80% of the students have an annual household income less than $50,000 which is considered as a low income according to [USNews](https://money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the-american-economic-class-system) while less than 2% of students has upper income ( greater than $100,000).
 
-## Job and Academic Information
+### Job and Academic Information
 
 In the following image, variables related to job and academic information is displayed. Variable such as Enroll, Employ, Work, Hrs, Classification, and College are shown. For the College variable, students were allowed to select more than one college.
 
 ![](/Image/FinalProject-DB-1.png)
 
-86% of the UTEP studends are full-time students, about 70% are employed, about 30% have an on-campus job, and almost 40% has a full-time job.
+86% of the UTEP studends are full-time students, about 70% are employed, about 30% have an on-campus job, and almost 40% has a full-time job. Around the 80% are undergraduate students, most of them being senior students. Most of the students in the survey belongs to the pharmacy college.
 
-Around the 80% are undergraduate students, most of them being senior students. Most of the students in the survey belongs to the pharmacy college.
-
-## Personal Situation
+### Personal Situation
 
 The visualizations presented below shows the variables Dependents, Federal Aid, USDA category, Alone, Head of home, and Live. The *UTEP's COVID CARES Act Fund* category in the Federal Aid variable has been included into the *Other* category.
+
 ![](/Image/FinalProject-DB-3.png)
+
+Around the 75% of the respondants has one dependent. Most of the students has a work-study as federal aid/assistance, about the 75% are in very low food security level. Most of them live with someone else, they are not in majority the head of household, and almost the 45% live off campus with their parents.
+
+## Exploring Relationships
+
+### Federal Aid and Food Security
+
+In this section, I will analize different visualizations to answer the question
+
+> How is use of goverment federal aid/assistance associated with food security as measured by the USDA index or categories?
+
+![](Image/fedaid-usda-1.png)
+![](Image/usda-fedaid-1.png)
+
+### Food Security, Concentration on School, and Degree Completion
+
+The question to be answered in this section is
+
+> Does food security have a relationshio with the items pertaining to concentration on schoold and degree process/completion?
+
+![](Image/usda-diff-delay-1.png)
+![](Image/usda-diff-delay2-1.png)
+
+### Concentration on School and Degree Completion by Gender and Ethnicity
+
+> Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?
+
+![](Image/ethn-gend-diff-delay2-1.png)
+![](Image/ethn-gend-diff-delay-1.png)
