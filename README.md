@@ -1,5 +1,13 @@
 # DS-Portfolio
 
+## Table of Contents
+
+- [Covid New Cases and Deaths in Mexico](CovidCases.md)
+- [Gene Variant Analysis](GeneVariant.md)
+- [Obesity rate by US Regions](ObesitybyRegions.md)
+- [Food Security Index](UTEP-Survey.md)
+
+
 **Data Science Portfolio**
 
 Repository dedicated to build my portfolio as data analyst and future data scientist.
