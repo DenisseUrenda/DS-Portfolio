@@ -4,7 +4,7 @@
 
 - [Covid New Cases and Deaths in Mexico](CovidCases.md)
 - [Gene Variant Analysis](GeneVariant.md)
-- [Obesity rate by US Regions](ObesitybyRegions.md)
+- [Obesity Rate by US Regions](ObesitybyRegions.md)
 - [Food Security Index](UTEP-Survey.md)
 
 
