@@ -65,7 +65,7 @@ In this analysis I will explore the data to answer three questions pertaining to
 - Does food security have a relationship with the items pertaining to concentration on school and degree process/completion?
 - Are there gender or ethnicity differences in the items pertaining to concentration on school and degree progress?
 
-## Exploring the data <a name = exploring></a>
+## Exploring the Data <a name = exploring></a>
 
 ### Knowing the Students <a name="knowing"></a>
 
