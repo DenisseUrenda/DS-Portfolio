@@ -81,4 +81,6 @@ In the following image, variables related to job and academic information is dis
 Around the 80% are undergraduate students, most of them being senior students. Most of the students in the survey belongs to the pharmacy college.
 
 ## Personal Situation
+
+The visualizations presented below shows the variables Dependents, Federal Aid, USDA category, Alone, Head of home, and Live. The *UTEP's COVID CARES Act Fund* category in the Federal Aid variable has been included into the *Other* category.
 ![](/Image/FinalProject-DB-3.png)
